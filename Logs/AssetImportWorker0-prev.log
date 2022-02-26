@@ -1,0 +1,262 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.26f1 (7298b473bc1a) revision 7510196'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'en' Physical Memory: 10157 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/komon/OneDrive/Desktop/Unity Stuff/Sound and Animation Tutorial/Montenegro_Koby_DIG3480_Tutorial2 Workspace
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54961
+Successfully changed project path to: C:/Users/komon/OneDrive/Desktop/Unity Stuff/Sound and Animation Tutorial/Montenegro_Koby_DIG3480_Tutorial2 Workspace
+C:/Users/komon/OneDrive/Desktop/Unity Stuff/Sound and Animation Tutorial/Montenegro_Koby_DIG3480_Tutorial2 Workspace
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 107.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.26f1 (7298b473bc1a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/komon/OneDrive/Desktop/Unity Stuff/Sound and Animation Tutorial/Montenegro_Koby_DIG3480_Tutorial2 Workspace/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     5078 MB
+    Driver:   27.20.21030.1005
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006978 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 162.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.127 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2127ms)
+		BeginReloadAssembly (219ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1658ms)
+			LoadAssemblies (209ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (531ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (665ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (163ms)
+				BeforeProcessingInitializeOnLoad (27ms)
+				ProcessInitializeOnLoadAttributes (331ms)
+				ProcessInitializeOnLoadMethodAttributes (122ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.017623 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 295.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.087 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4092ms)
+		BeginReloadAssembly (482ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (3395ms)
+			LoadAssemblies (323ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (976ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (205ms)
+			SetupLoadedEditorAssemblies (1385ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (296ms)
+				BeforeProcessingInitializeOnLoad (252ms)
+				ProcessInitializeOnLoadAttributes (739ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2197 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.8 MB.
+System memory in use after: 96.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2630.
+Total: 9.392200 ms (FindLiveObjects: 0.394000 ms CreateObjectMapping: 0.161800 ms MarkObjects: 8.670200 ms  DeleteObjects: 0.162400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-Top.png
+  artifactKey: Guid(eed45a33cd08446c8b88325cf82fc52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-Top.png using Guid(eed45a33cd08446c8b88325cf82fc52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1809652a82d8d22ff10af5a0b0652610') in 0.393152 seconds 
+  Import took 0.402910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-TopWithBorder.png
+  artifactKey: Guid(4b2a04fdbe0ef4d8da8f90eaca817cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-TopWithBorder.png using Guid(4b2a04fdbe0ef4d8da8f90eaca817cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50858912bcacf81ddc08543ec3f9aa89') in 0.037802 seconds 
+  Import took 0.048266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-TopWithBorder.png
+  artifactKey: Guid(a9716c16a44a94eed9b5c90fbf4d9bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-TopWithBorder.png using Guid(a9716c16a44a94eed9b5c90fbf4d9bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1507bf4f496c46ba43d87bf87ee59e') in 0.027383 seconds 
+  Import took 0.037724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png
+  artifactKey: Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png using Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4720ed190e1a7817bbfc67a079ccfd84') in 0.027131 seconds 
+  Import took 0.036101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000737 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-Top.png
+  artifactKey: Guid(16037dbd798344f57a526d53d48f5ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-Top.png using Guid(16037dbd798344f57a526d53d48f5ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a715b525ddce76caf760635f8aeeea') in 0.028797 seconds 
+  Import took 0.042785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png
+  artifactKey: Guid(87aaca0a643d54397ba969dab4fc8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png using Guid(87aaca0a643d54397ba969dab4fc8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336ea944f911d78053f811db356c0369') in 0.032227 seconds 
+  Import took 0.038286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png
+  artifactKey: Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png using Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600f97cdfd3edc6a1685d83d25fc157c') in 0.033899 seconds 
+  Import took 0.043922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png
+  artifactKey: Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png using Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea08e4411f98851f91f00718d3ff46f') in 0.033833 seconds 
+  Import took 0.048167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png
+  artifactKey: Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png using Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f9d2c87602c9de665cd5edc8b46197') in 0.039675 seconds 
+  Import took 0.055277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png
+  artifactKey: Guid(ebe73ca9363db456bacf42c025bb4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png using Guid(ebe73ca9363db456bacf42c025bb4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8c39de7271b5a455345680f1bcb82c') in 0.053798 seconds 
+  Import took 0.064409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001208 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleWithBorder.png
+  artifactKey: Guid(4adeaf2d2b1c7417e89f026626d8264f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleWithBorder.png using Guid(4adeaf2d2b1c7417e89f026626d8264f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c5976af4148e7eb69b1e4a48d95fe6') in 0.038151 seconds 
+  Import took 0.047381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png
+  artifactKey: Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png using Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6609b4886f6a7b5e886870c4517a228') in 0.039110 seconds 
+  Import took 0.047454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png
+  artifactKey: Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png using Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219c897d45680a2c55bb4df6d0d2fb5f') in 0.029409 seconds 
+  Import took 0.041300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png
+  artifactKey: Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png using Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ad02565640520517df1e4abf7b01ce') in 0.027960 seconds 
+  Import took 0.033365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamondWithBorder.png
+  artifactKey: Guid(0d267bc78a0864eb48358689b29ed20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamondWithBorder.png using Guid(0d267bc78a0864eb48358689b29ed20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4d89f411a6aa10865620de9ba94abd') in 0.025836 seconds 
+  Import took 0.035717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.367522 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures
+  artifactKey: Guid(eb4d405ba54724ef89c2fce638946c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures using Guid(eb4d405ba54724ef89c2fce638946c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121a61d2f0b1a6737c664016865a0dc1') in 0.010764 seconds 
+  Import took 0.028394 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
